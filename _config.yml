@@ -1,2 +1,2 @@
-name: Damianos Melidis
-theme: jekyll-theme-slate
+gems:
+  - jekyll-sitemap
